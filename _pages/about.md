@@ -7,4 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-hello! 这是我自己的网站
+# **hello**
+你好
+[前往qq群](https://qm.qq.com/q/78kTsf3ZMA)
