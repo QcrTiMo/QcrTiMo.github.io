@@ -24,9 +24,9 @@ author:
   avatar           : "profile.png"
   name             : "QcrTiMo"
   pronouns         : # example: "she/her"  
-  bio              : "个人介绍"
-  location         : "住址"
-  employer         : "毕业学校"
+  bio              : #"个人介绍"
+  location         : #"住址"
+  employer         : #"毕业学校"
   uri              : # URL
   email            : "3192377376@qq.com" 
 
